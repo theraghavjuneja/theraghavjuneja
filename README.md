@@ -7,6 +7,7 @@
 - 🧑‍💻leetcode(not much active but still)-- https://leetcode.com/raghavjuneja/
 - Hope to solve much problems on leetcode in the coming month
   TIll now, I Know a good level of DSA, FLutter and python-numpy,pandas and matplotlib
+- CODING NINJAS PROFILE  https://www.codingninjas.com/studio/profile/theraghavjuneja
 <!---
 theraghavjuneja/theraghavjuneja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
