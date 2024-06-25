@@ -3,7 +3,6 @@
 - Don't forget to participate here
 - 💞️ I’m looking to collaborate on any projects 
 - 📫 How to reach me Gmail: theraghavjuneja@gmail.com
- - Participate - New Hackathon Great AppSec Hackathon 2024 WhereUElevate https://whereuelevate.com/drills/great-appsec-hackathon-2024/
 
 - Instagram @raghav_juneja_
 <!---
