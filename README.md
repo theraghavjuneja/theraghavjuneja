@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @theraghavjuneja
-- MY WORKPLACE @WHEREUELEVATE Refer @ https://whereuelevate.com/
 - 💞️ I’m looking to collaborate on any projects 
 - 📫 How to reach me Gmail: theraghavjuneja@gmail.com
 
